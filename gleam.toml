@@ -1,0 +1,6 @@
+name = "arcana_signals"
+version = "0.0.1"
+
+description = "Gleam bindings to @preact/signals-core that won't crash in Erlang"
+licences = ["Apache-2.0"]
+repository = { type = "github", user = "synecdokey", repo = "arcana_signals" }

@@ -1,0 +1,11 @@
+{
+  "name": "signals",
+  "version": "1.0.0",
+  "description": "Signals are a powerful JS construct leveraged by many frontend frameworks. This is a set of Gleam bindings that also compile for an erlang target to a simple set of primitives for isomorphic frameworks.",
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@preact/signals-core": "^1.5.1"
+  }
+}
