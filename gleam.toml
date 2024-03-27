@@ -1,5 +1,5 @@
 name = "arcana_signals"
-version = "0.0.1"
+version = "0.0.2"
 
 description = "Gleam bindings to @preact/signals-core that won't crash in Erlang"
 licences = ["Apache-2.0"]
